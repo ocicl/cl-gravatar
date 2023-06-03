@@ -1,0 +1,9 @@
+* cl-gravatar
+
+Common Lisp interface to access Gravatar images and profiles.
+
+|---------+------------------------------------------------|
+| source  | git:https://github.com/sellout/cl-gravatar.git |
+| commit  | 98b8210                                        |
+| systems | cl-gravatar                                    |
+|---------+------------------------------------------------|
